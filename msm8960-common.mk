@@ -300,6 +300,10 @@ PRODUCT_PACKAGES += \
 # XiaomiParts
 PRODUCT_PACKAGES += \
     XiaomiParts
+	
+# Dirac
+PRODUCT_PACKAGES += \
+    Dirac
 
 # call the proprietary setup
 $(call inherit-product, vendor/xiaomi/msm8960-common/msm8960-common-vendor.mk)
