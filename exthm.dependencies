@@ -1,0 +1,14 @@
+[
+ {
+   "repository": "xiaomi-classic-dev/android_vendor_xiaomi_msm8960-common",
+   "target_path": "vendor/xiaomi/msm8960-common",
+   "branch": "mkq-mr1",
+   "remote": "github"
+ },
+ {
+   "repository": "xiaomi-classic-dev/android_kernel_xiaomi_aries",
+   "target_path": "kernel/xiaomi/aries",
+   "branch": "mkq-mr1",
+   "remote": "github"
+ }
+]
