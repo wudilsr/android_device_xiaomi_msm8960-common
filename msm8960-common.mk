@@ -301,9 +301,5 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     XiaomiParts
 
-# DSPManager
-PRODUCT_PACKAGES += \
-    DSPManager
-
 # call the proprietary setup
 $(call inherit-product, vendor/xiaomi/msm8960-common/msm8960-common-vendor.mk)
