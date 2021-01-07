@@ -106,6 +106,7 @@ USE_OPENGL_RENDERER             := true
 TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS := 0x2000U | 0x02000000U
 TARGET_USES_C2D_COMPOSITION     := true
 TARGET_USES_ION                 := true
+TARGET_SCREEN_DENSITY           := 320
 
 # Extended filesystem support
 TARGET_EXFAT_DRIVER := sdfat
